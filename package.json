@@ -1,0 +1,27 @@
+{
+  "name": "tcg-shop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mcapozzolo/tcg-shop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mcapozzolo/tcg-shop/issues"
+  },
+  "homepage": "https://github.com/Mcapozzolo/tcg-shop#readme",
+  "description": "",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^5.1.0",
+    "mongodb": "^6.17.0"
+  }
+}

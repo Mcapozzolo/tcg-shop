@@ -1,7 +1,8 @@
-.error-msg{
-  font-size:.8em;
-  color:#f44336;       /* W3-Rot */
+.error-msg {
+    font-size: .8em;
+    color: #f44336;
 }
-.w3-input.invalid{
-  border-color:#f44336 !important;
+
+.w3-input.invalid {
+    border-color: #f44336 !important;
 }
